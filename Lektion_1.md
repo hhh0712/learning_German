@@ -1,5 +1,7 @@
 Lektion 1 lesson 1
 ---
+|German | English|
+|:---|:---|
 |Begrüßungen | Greetings|
 |Hallo |hello|
 |Guten Tag |good day|
